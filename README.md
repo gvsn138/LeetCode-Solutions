@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
