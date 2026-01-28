@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Greedy
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
