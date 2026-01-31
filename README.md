@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Greedy
@@ -71,4 +72,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
