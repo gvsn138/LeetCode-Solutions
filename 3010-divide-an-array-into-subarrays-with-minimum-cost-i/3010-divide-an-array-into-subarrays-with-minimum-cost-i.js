@@ -3,28 +3,16 @@
  * @return {number}
  */
 var minimumCost = function(nums) {
-    let firstMin = nums[1];
-    let fistIndex = 1;
-    let secondIndex = 2;
-    let secondMin = nums[2];
-    for(let i=3; i<nums.length; i++)
+    let firstMin = Infinity;
+    let secondMin = Infinity;
+    for(let i=1; i<nums.length; i++)
     {
         if(firstMin>nums[i])
         {
-            if(secondMin>firstMin)
-            {
-                secondMin=firstMin;
-                secondIndex = fistIndex;
-            }
-            firstMin=nums[i];
-            fistIndex=i;
+            secondMin = firstMin;
+            firstMin = nums[i];
         }
-        if(secondMin>nums[i] && fistIndex!==i)
-        {
-            secondMin=nums[i];
-            secondIndex=i;
-        }
-        
+        else if(secondMin > nums[i]) secondMin = nums[i];
     }
-    return nums[0] + nums[fistIndex] + nums[secondIndex];
+    return nums[0] + firstMin + secondMin;
 };
