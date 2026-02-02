@@ -16,8 +16,8 @@ var rightSideView = function(root) {
     {
         if(root==null)return 0;
         if(arr.length == count)arr.push(root.val);
-        r = solve(root.right, count+1);
-        l = solve(root.left, count+1);
+        solve(root.right, count+1);
+        solve(root.left, count+1);
     }
     solve(root, 0);
     return arr;
