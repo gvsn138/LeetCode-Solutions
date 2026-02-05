@@ -31,6 +31,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
