@@ -14,7 +14,7 @@ public:
     TreeNode* getsucc(TreeNode* root)
     {
         TreeNode* curr=root->right;
-        while(curr!=NULL && curr->left!=NULL)
+        while(curr->left)
         {
             curr=curr->left;
         }
