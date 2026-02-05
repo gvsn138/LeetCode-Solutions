@@ -9,6 +9,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
