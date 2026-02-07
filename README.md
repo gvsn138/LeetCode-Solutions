@@ -10,6 +10,7 @@
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
