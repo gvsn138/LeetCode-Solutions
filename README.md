@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 ## Stack
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Binary Search Tree
 |  |
 | ------- |
