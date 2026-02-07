@@ -11,12 +11,9 @@ var minRemoval = function(nums, k) {
     let lsubarr = j-i+1;
     while(j<n)
     {
-        let min = nums[i];
-        let max = nums[j];
-        while(i<j && max > min*k)
+        while(i<j && nums[j] > nums[i]*k)
         {
             i++;
-            min=nums[i];
         }
         lsubarr = Math.max(lsubarr, j-i+1);
         j++;
