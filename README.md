@@ -11,6 +11,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -119,10 +120,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -154,4 +157,9 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
