@@ -29,6 +29,7 @@
 | ------- |
 | [0649-dota2-senate](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
