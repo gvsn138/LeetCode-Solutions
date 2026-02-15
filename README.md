@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0649-dota2-senate](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -155,10 +156,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -177,4 +180,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
