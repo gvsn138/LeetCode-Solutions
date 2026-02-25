@@ -144,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Binary Search Tree
@@ -158,6 +159,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
