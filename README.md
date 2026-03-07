@@ -6,6 +6,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -63,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
