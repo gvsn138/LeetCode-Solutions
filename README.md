@@ -9,6 +9,7 @@
 | [0739-daily-temperatures](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -31,6 +33,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0649-dota2-senate](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -61,6 +64,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -204,4 +208,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
