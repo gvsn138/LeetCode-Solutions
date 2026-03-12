@@ -139,6 +139,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2336-smallest-number-in-infinite-set](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3713-longest-balanced-substring-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -219,8 +220,17 @@
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
