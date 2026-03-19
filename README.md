@@ -12,6 +12,7 @@
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gvsn138/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -58,6 +60,7 @@
 | [0086-partition-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/gvsn138/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/gvsn138/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gvsn138/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
